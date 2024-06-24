@@ -1,4 +1,4 @@
-# Car-Park-Sensor
+# Ultrasonic-Sensor
 
 ## Project Overview
 
